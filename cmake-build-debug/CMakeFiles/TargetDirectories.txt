@@ -1,0 +1,3 @@
+C:/Users/Sirgay/CLionProjects/BitArifmLab/cmake-build-debug/CMakeFiles/BitArifmLab.dir
+C:/Users/Sirgay/CLionProjects/BitArifmLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sirgay/CLionProjects/BitArifmLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
